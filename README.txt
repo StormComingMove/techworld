@@ -1,1 +1,1 @@
-This Project is created mainly to get familiar with Java, Spring (& Spring Boot), DB Connection, Kafka , Redis.
+This Project is created mainly to get familiar with Java, Spring (& Spring Boot), DB Connection, Kafka , Redis, Dockerfile.
